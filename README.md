@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔬 Currently exploring the intersection of Machine Learning and Cheminformatics<br><br>🧹 Skilled in Data Cleaning, Feature Engineering, and preparing real-world datasets for analysis<br><br>🧠 Building and experimenting with ML models for scientific and chemical data<br><br>🧪 Interested in Cheminformatics, molecular descriptors, and predictive modeling in drug discovery<br><br>📊 Proficient in Python, Pandas, scikit-learn, RDKit, and related tools<br><br>🚀 Open to collaboration on ML/data projects, especially in life sciences<br><br>📂 Always working to improve and expand my open-source contributions🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔬 Currently exploring the intersection of Machine Learning and Cheminformatics<br>🧹 Skilled in Data Cleaning, Feature Engineering, and preparing real-world datasets for analysis<br>🧠 Building and experimenting with ML models for scientific and chemical data<br>🧪 Interested in Cheminformatics, molecular descriptors, and predictive modeling in drug discovery<br>📊 Proficient in Python, Pandas, scikit-learn, RDKit, and related tools<br>🚀 Open to collaboration on ML/data projects, especially in life sciences<br>📂 Always working to improve and expand my open-source contributions
 
 
 ## 🌐 Socials:
